@@ -26,7 +26,7 @@ This project is a back-end system designed for a pharmacy to streamline its busi
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/dmunasingha/pharmacy-project
 ```
 
 Go to the project directory
