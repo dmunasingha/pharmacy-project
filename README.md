@@ -21,7 +21,7 @@ This project is a back-end system designed for a pharmacy to streamline its busi
 -   PHP ^8.1
 -   Laravel 10
 -   SQLite (3.39.2)
--   Postman
+-   Postman (for testing)
 
 Clone the project
 
