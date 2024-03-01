@@ -44,7 +44,7 @@ Install PHP dependencies
 Copy the Enviroment File
 
 ```bash
-  cp .env.example .env
+  copy .env.example .env
 ```
 
 Generate Application Key
